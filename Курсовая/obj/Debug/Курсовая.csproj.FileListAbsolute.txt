@@ -1,0 +1,253 @@
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\Курсовая\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая — копия (2)\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая — копия (2) — копия\Курсовая\obj\Debug\Курсовая.Результат_сдачи.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Результат_сдачи.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая Основная\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Результат_сдачи.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая Основная — копия\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Результат_сдачи.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Результат_сдачи.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\Курсовая ОСН ИЗМ — копия — копия — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Результат_сдачи.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\Курсовая копия в которой работаю справа бекап\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\в которой работаю\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ\Курсовая\obj\Debug\Курсовая.Результат.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\bin\Debug\Автошкола.mdf
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\bin\Debug\Автошкола_log.ldf
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\bin\Debug\Курсовая.exe.config
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\bin\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\bin\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csprojAssemblyReference.cache
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Menu.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Properties.Resources.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Авто.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Должность.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Звание.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Марка.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Маршрут.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Ошибка.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Подразделение.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Результат.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.ТипОшибки.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.ТипТрансмисии.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.ТипТС.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Учащийся.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Экзамен.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.Экзаменатор.resources
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.GenerateResource.cache
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.exe
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.pdb
+C:\Users\Laptop\Desktop\В КОТОРОЙ РАБОТАЮ — копия — копия — копия\Курсовая\obj\Debug\Курсовая.csproj.ResolveComReference.cache
